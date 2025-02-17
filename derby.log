@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 15 01:08:47 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0195-05f8-83e7-000006b04478 
+on database directory C:\Users\AVHIRUP MONDAL\MyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6d03e736 
+Loaded from file:/D:/2.%20Development/4.%20JSP-SERVLET/0.%20Softwares/derby_1_4/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.5+11-LTS
+user.dir=D:\2. Development\4. JSP-SERVLET\1. Online-Grocery-Ordering-Web-Application\2. GroBuzz\jsp-servlet-jdbc
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
